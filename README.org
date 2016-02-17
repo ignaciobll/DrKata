@@ -1,0 +1,56 @@
+* ¿Qué es el Dr. Kata?
+
+El proyecto Dr. Kata es una idea surgida en la FI (ETSIINF) que trata
+de acercar el mundo de la programación a quienes están estudiando en
+la universidad pero se vean sobrepasados o no comprendan aquello que
+en las clases se da.
+
+Se quiere hacer despertar un interés en la programación, enseñando de
+una forma distinta los conceptos. Pero sobre todo poniéndolos en
+práctica con ideas y ejercicios cortos pero precisos.
+
+Este proyecto está destinado a aquellas personas que no quieran
+desistir de la programación y quieren buscar otra forma de entenderla.
+
+La forma de trabajar en el proyecto será en pequeñas sesiones de
+teoría junto a ejercicios cortos que pongan en uso esa teoría. Las
+actividades estarán plateadas para que se realicen en una hora. La
+teoría por tanto no será pesada, solo necesaria para que no haya
+lagunas en los conceptos que serán después usados.
+
+No es necesario tener ningún conocimiento previo, ya que se realizarán
+actividades desde los niveles más básicos de la programación. Incluso
+centrándonos en la llamada "Metodología de la programación". Esto
+consiste en aprender a resolver problemas pero sin la necesidad de
+escribir código. Algo muy recomendado para aprender la lógica de los
+algorítmos más que dedicarse a aprender un lenguaje, un lenguaje que
+no es más que una herramienta con la que explicarle una idea al
+ordenador.
+
+Habrá actividades que estarán ligadas a las asignaturas del
+Grado. Obviamente se darán conceptos que se den en clase, pero porque
+forman parte de la programación. Sin embargo esto no quiere decir que
+el Dr.Kata sea un sustitutivo de las clases. Para nada. El Dr. Kata
+plantea simplemente una forma diferente de aprender a programar. Algo
+más entretenido y que pueda despertar interés.
+
+
+Las temáticas que se van a trabajar encajarían en Programación I,
+Programación II, Algoritmos y Estructura de Datos, Concurrencia y
+Programación en C. Además de esto, se realizarán actividades como
+Metodología de la Programación e Interfaces Gráficas. Se enviará
+información más detallada de qué se va a tratar en cada una
+posteriormente. A lo largo del semestre contaremos también con
+colaboradores que vendrán a hacer charlas sobre temas relacionados con
+la programación o actividadesn más especiales.
+
+Si estás interesado o interesada en unirte, agradeceríamos que
+pusieras es este formulario (http://goo.gl/forms/C3lmbOLqj7) tus datos
+para contactarte. Los usaremos para poder saber el estimado de gente
+que asistirá a cada actividad. Pondremos a disposición también una
+lista de correo por la que se informará previamente de todo lo que se
+va a realizar y por la cual estar en contacto para poder hablar de
+ideas o plantear preguntas.
+
+Para cualquier duda, puedes mandar un correo a prog.dr.kata@gmail.com
+
