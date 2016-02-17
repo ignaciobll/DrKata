@@ -42,7 +42,7 @@ Metodología de la Programación e Interfaces Gráficas. Se enviará
 información más detallada de qué se va a tratar en cada una
 posteriormente. A lo largo del semestre contaremos también con
 colaboradores que vendrán a hacer charlas sobre temas relacionados con
-la programación o actividadesn más especiales.
+la programación o actividades más especiales.
 
 Si estás interesado o interesada en unirte, agradeceríamos que
 pusieras es este formulario (http://goo.gl/forms/C3lmbOLqj7) tus datos
